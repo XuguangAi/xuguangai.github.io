@@ -14,7 +14,6 @@ profiles:
     content: about_einstein.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>xuguang.ai@outlook.com</p>
       <p>101 College St, Fl 10</p>
       <p>New Haven, CT 06510</p>
   - align: left
