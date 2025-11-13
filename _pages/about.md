@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Department of Biomedical Informatics & Data Science, Yale University.</a>
+subtitle:
 profile:
   align: right
   image: prof_pic.jpg
