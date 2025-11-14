@@ -33,18 +33,6 @@
       "highlights": ["Relativity"]
     }
   ],
-  "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-    }
-  ],
   "education": [
     {
       "institution": "University of Kentucky, Lexington, USA",
@@ -55,6 +43,28 @@
       "startDate": "2021-08",
       "endDate": "2023-05",
       "score": "4.0/4.0",
+      "courses": []
+    },
+    {
+      "institution": "University of Kentucky, Lexington, USA",
+      "location": "Lexington, USA",
+      "url": "",
+      "area": "Physics",
+      "studyType": "MS",
+      "startDate": "2016-08",
+      "endDate": "2021-05",
+      "score": "3.6/4.0",
+      "courses": []
+    },
+    {
+      "institution": "Shandong University, Jinan, China",
+      "location": "Jinan, China",
+      "url": "",
+      "area": "Physics",
+      "studyType": "BS",
+      "startDate": "2010-09",
+      "endDate": "2014-06",
+      "score": "89.0/100.0",
       "courses": []
     }
   ],
@@ -149,18 +159,6 @@
       ]
     }
   ],
-  "languages": [
-    {
-      "language": "German",
-      "fluency": "Native speaker",
-      "icon": ""
-    },
-    {
-      "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
-    }
-  ],
   "interests": [
     {
       "name": "Physics",
@@ -173,18 +171,6 @@
         "Quantum Communication",
         "Quantum Teleportation"
       ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    },
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
     }
   ],
   "projects": [
