@@ -5,7 +5,7 @@ permalink: /
 subtitle:
 profile:
   align: right
-  image: prof_pic.jpg
+  image: my_profile.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Department of Biomedical Informatics & Data Science</p>
