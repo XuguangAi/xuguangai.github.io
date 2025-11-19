@@ -26,4 +26,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a data scientist and software engineer in the Department of Biomedical Informatics & Data Science at Yale University, where I have the great privilege of working with [Qingyu Chen](https://medicine.yale.edu/profile/qingyu-chen/) and [Hua Xu](https://medicine.yale.edu/profile/hua-xu/). I hold a Master’s degree in Physics and a Master’s degree in Data Science from the University of Kentucky, where I was fortunate to be advised by [Ramakanth Kavuluru](https://protocols.netlab.uky.edu/~rvkavu2/) during my second Master's.
+Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+
+Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+
+Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
