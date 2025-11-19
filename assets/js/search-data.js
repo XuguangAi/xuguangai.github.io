@@ -412,16 +412,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-excited-to-share-that-our-paper-ophthalmological-question-answering-and-reasoning-using-openai-o1-vs-other-large-language-models-has-been-published-in-jama-ophthalmology",
+          title: 'Excited to share that our paper Ophthalmological Question Answering and Reasoning Using OpenAI...',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-excited-to-share-that-our-paper-agentmd-empowering-language-agents-for-risk-prediction-with-large-scale-clinical-tool-learning-has-been-published-in-nature-communications",
+          title: 'Excited to share that our paper AgentMD: Empowering Language Agents for Risk Prediction...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
