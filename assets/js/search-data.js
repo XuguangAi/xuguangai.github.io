@@ -412,7 +412,10 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-excited-to-share-that-our-paper-ophthalmological-question-answering-and-reasoning-using-openai-o1-vs-other-large-language-models-has-been-published-in-jama-ophthalmology",
+            },},{id: "news-our-paper-comparison-of-pipelines-seq2seq-models-and-llms-for-rare-disease-information-extraction-accepted-at-nldb-2025-is-now-online",
+          title: 'Our paper Comparison of Pipelines, Seq2seq Models, and LLMs for Rare Disease Information...',
+          description: "",
+          section: "News",},{id: "news-excited-to-share-that-our-paper-ophthalmological-question-answering-and-reasoning-using-openai-o1-vs-other-large-language-models-has-been-published-in-jama-ophthalmology",
           title: 'Excited to share that our paper Ophthalmological Question Answering and Reasoning Using OpenAI...',
           description: "",
           section: "News",},{id: "news-excited-to-share-that-our-paper-agentmd-empowering-language-agents-for-risk-prediction-with-large-scale-clinical-tool-learning-has-been-published-in-nature-communications",
